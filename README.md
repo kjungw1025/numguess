@@ -21,5 +21,3 @@ $ python numguess.py
 ## References
 
 1.[Go to google](https://www.google.com/)
-2.
-3.
