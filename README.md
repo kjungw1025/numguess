@@ -1,5 +1,4 @@
 # numguess
-<h1>numguess</h1>
 
 ## Installation
 ```shell
