@@ -10,5 +10,6 @@ menus = [
     'Sushi',
     'Ramen',
     'Salad',
+    'kimbab',
 ]
 
