@@ -14,6 +14,7 @@ for _ in range(n):
   # 선택자가 문을 고름
   sel = doors.pop()
   # 진행자가 염소가 있는 문중에 하나를 열어서 보여줘야하므로 doors에 있는 0을 지움
+  # 여기서는 굳이 remove 하지 않아도된다.
   doors.remove(0)
   if sel == 1:  # 선택자가 1인 문을 선택했었다면 stay
     stay += 1
